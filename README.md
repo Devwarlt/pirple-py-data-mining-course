@@ -12,9 +12,14 @@ conda install pandas
 conda install seaborn
 conda install numpy
 conda install matplotlib
+conda install sklearn
 ```
 
 </details>
+
+## Dataset References
+- **Kaggle** - https://kaggle.com/
+- **scikit-learn** - https://scikit-learn.org/
 
 ## Languages
 ![python-language-badge]
