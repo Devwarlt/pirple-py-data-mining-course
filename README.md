@@ -12,7 +12,7 @@ conda install pandas
 conda install seaborn
 conda install numpy
 conda install matplotlib
-conda install sklearn
+conda install scikit-learn
 ```
 
 </details>
