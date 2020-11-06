@@ -72,3 +72,4 @@ fabric.properties
 /venv/
 *.db
 __pycache__/
+*.csv
