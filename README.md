@@ -1,6 +1,12 @@
 # Pirple: Python (data mining) course [![license-badge]][license]
 This repository contains all practices from [Pirple's "Data Mining With Python" course][pirple-py-dm-course].
 
+## Navigation
+- **Module 1** - [`Data Wrangling`][module-1]
+
+## Languages
+![python-language-badge]
+
 ## Workstation Setup
 1. **Step 1** - install Python;
 1. **Step 2** - install Jupyter Notebook or PyCharm;
@@ -21,9 +27,6 @@ conda install scikit-learn
 - **Kaggle** - https://kaggle.com/
 - **scikit-learn** - https://scikit-learn.org/
 
-## Languages
-![python-language-badge]
-
 ### Contributors
 - Nádio ~ [@Devwarlt][nadio-ref]
 
@@ -35,3 +38,5 @@ conda install scikit-learn
 [license]: /LICENSE
 
 [pirple-py-dm-course]: https://www.pirple.com/#cst-v2-section-SJx3vzU37
+
+[module-1]: /PyDM.Module1
