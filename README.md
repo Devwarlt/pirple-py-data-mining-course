@@ -15,6 +15,7 @@ This repository contains all practices from [Pirple's "Data Mining With Python" 
 
 ```terminal
 conda install -c conda-forge notebook
+conda install -c conda-forge jupyterlab
 conda install pandas
 conda install seaborn
 conda install numpy
