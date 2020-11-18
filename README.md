@@ -3,6 +3,7 @@ This repository contains all practices from [Pirple's "Data Mining With Python" 
 
 ## Navigation
 - **Module 1** - [`Data Wrangling`][module-1]
+- **Module 2** - [`Data Mining Fundamentals`][module-2]
 
 ## Languages
 ![python-language-badge] ![jupyter-language-badge]
@@ -46,3 +47,4 @@ conda install scikit-learn
 [ref-2]: https://docs.anaconda.com/anaconda/install/
 
 [module-1]: /PyDM.Module1
+[module-2]: /PyDM.Module2
