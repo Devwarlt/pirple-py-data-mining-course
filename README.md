@@ -4,6 +4,7 @@ This repository contains all practices from [Pirple's "Data Mining With Python" 
 ## Navigation
 - **Module 1** - [`Data Wrangling`][module-1]
 - **Module 2** - [`Data Mining Fundamentals`][module-2]
+- **Module 3** - [`Frameworks Explained`][module-3] :hammer:
 
 ## Languages
 ![python-language-badge] ![jupyter-language-badge]
@@ -17,6 +18,7 @@ This repository contains all practices from [Pirple's "Data Mining With Python" 
 ```terminal
 conda install -c conda-forge notebook
 conda install -c conda-forge jupyterlab
+conda install -c conda-forge pyspark
 conda install pandas
 conda install seaborn
 conda install numpy
@@ -48,3 +50,4 @@ conda install scikit-learn
 
 [module-1]: /PyDM.Module1
 [module-2]: /PyDM.Module2
+[module-3]: /PyDM.Module3
