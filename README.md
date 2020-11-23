@@ -4,7 +4,7 @@ This repository contains all practices from [Pirple's "Data Mining With Python" 
 ## Navigation
 - **Module 1** - [`Data Wrangling`][module-1]
 - **Module 2** - [`Data Mining Fundamentals`][module-2]
-- **Module 3** - [`Frameworks Explained`][module-3] :hammer:
+- **Module 3** - [`Frameworks Explained`][module-3]
 
 ## Languages
 ![python-language-badge] ![jupyter-language-badge]
