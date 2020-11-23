@@ -5,6 +5,7 @@ This repository contains all practices from [Pirple's "Data Mining With Python" 
 - **Module 1** - [`Data Wrangling`][module-1]
 - **Module 2** - [`Data Mining Fundamentals`][module-2]
 - **Module 3** - [`Frameworks Explained`][module-3]
+- **Module 4** - [`Mining and Storing Data`][module-4] :hammer:
 
 ## Languages
 ![python-language-badge] ![jupyter-language-badge]
@@ -24,6 +25,7 @@ conda install seaborn
 conda install numpy
 conda install matplotlib
 conda install scikit-learn
+conda install networkx
 ```
 
 </details>
@@ -51,3 +53,4 @@ conda install scikit-learn
 [module-1]: /PyDM.Module1
 [module-2]: /PyDM.Module2
 [module-3]: /PyDM.Module3
+[module-4]: /PyDM.Module4
