@@ -6,6 +6,7 @@ This repository contains all practices from [Pirple's "Data Mining With Python" 
 - **Module 2** - [`Data Mining Fundamentals`][module-2]
 - **Module 3** - [`Frameworks Explained`][module-3]
 - **Module 4** - [`Mining and Storing Data`][module-4]
+- **Module 5** - [`Natural Language Processing`][module-5] :hammer:
 
 ## Languages
 ![python-language-badge] ![jupyter-language-badge]
@@ -54,3 +55,4 @@ conda install networkx
 [module-2]: /PyDM.Module2
 [module-3]: /PyDM.Module3
 [module-4]: /PyDM.Module4
+[module-5]: /PyDM.Module5
